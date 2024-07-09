@@ -1,0 +1,25 @@
+input[type=button]{
+    padding:20px;
+    width: 70px;
+    border-radius: 10px;
+}
+input[type=text]{
+    padding: 20px;
+    width: 175px;
+    
+}
+
+
+.box{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin-left: 600px;
+    background-image: url(/assets/image1.jpeg);
+    border-radius: 10px;
+}
+body{
+    background-color: pink;
+    
+}
